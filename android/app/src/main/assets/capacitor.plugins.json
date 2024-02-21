@@ -8,6 +8,10 @@
 		"classpath": "com.capacitorjs.plugins.filesystem.FilesystemPlugin"
 	},
 	{
+		"pkg": "@capacitor/live-updates",
+		"classpath": "com.capacitorjs.liveupdates.LiveUpdatesPlugin"
+	},
+	{
 		"pkg": "@capacitor/preferences",
 		"classpath": "com.capacitorjs.plugins.preferences.PreferencesPlugin"
 	},
